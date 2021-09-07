@@ -20,5 +20,5 @@ The "NA9 figures" folder has figures created from just analyzing the NA9 data. \
 The "IA10 figures" folder has figures created from just analyzing the IA10 data. \
 The "integrated data figures" folder has figures created from after I integrated the NA9 and IA10 togehter. It has differential expression analysis figures between the two samples here. \
 The "qc htmlfiles for each sample" folder has the report from the fastqc function for each of the samples. \
-The "UMAPs patchworked together" folder just has some UMAP figures that I conjoined for aesthetics on the presentation. \
+The "UMAPs patchworked together" folder just has some UMAP figures that I conjoined for aesthetics on the presentation. 
 
